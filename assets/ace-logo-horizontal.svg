@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 110" role="img" aria-labelledby="title desc">
+  <title id="title">Ace Retail Consultancy — The Art of Retail</title>
+  <desc id="desc">Sculpted yellow and blue spade beside the Retail Consultancy wordmark.</desc>
+  <defs><linearGradient id="gold" x1=".15" y1=".1" x2=".7" y2=".9"><stop offset="0" stop-color="#F9E86A"/><stop offset=".52" stop-color="#F6DA2C"/><stop offset="1" stop-color="#ECCA22"/></linearGradient></defs>
+  <g transform="translate(-26,-2) scale(.24)">
+    <path d="M351 28C390 90 448 166 502 222c15 16 24 28 27 39-17-23-39-32-65-29-46 5-81 49-112 99-19 31-39 51-68 56-58 11-105-23-112-75-8-51 18-92 53-137C280 105 326 61 351 28Z" fill="url(#gold)"/>
+    <path d="M351 28c42 66 102 142 151 194-36-34-82-60-142-61-67-2-122 28-161 74 28-48 106-141 152-207Z" fill="#F9E465" opacity=".88"/>
+    <path d="M200 235c-34 52-37 100-11 128 21 24 50 34 85 30 37-4 59-25 78-62-16 36-37 54-70 57-65 7-113-34-110-91 1-21 10-43 28-62Z" fill="#E5C62E" opacity=".66"/>
+    <path d="M350 348c23-44 60-94 91-109 36-18 66-11 83 17 15 24 13 65-4 90-18 28-47 43-76 43-39 0-72-18-94-41Z" fill="#06488D"/>
+    <path d="M350 348c31-49 65-92 96-107 35-16 64-8 79 19 5 9 8 18 9 28-22-25-49-33-78-22-45 16-70 54-106 82Z" fill="#092F67"/>
+    <path d="M354 347c28-34 54-64 84-76 36-15 69-8 92 21 4 26-5 52-25 72-17 17-37 25-61 25-38 0-69-18-90-42Z" fill="#01509D" opacity=".84"/>
+    <path d="M354 345c-7 41-24 79-50 109h94c-24-32-37-69-44-109Z" fill="#073B79"/>
+    <path d="M354 345c-2 39-11 77-28 109h-22c26-30 43-68 50-109Z" fill="#0F5DAA"/>
+  </g>
+  <text x="113" y="55" fill="#173F36" font-family="'Segoe UI Light','Arial Narrow',Arial,sans-serif" font-size="27" font-weight="300" letter-spacing="2.6">RETAIL CONSULTANCY</text>
+  <text x="115" y="88" fill="#A47836" font-family="'Segoe Script','Brush Script MT',cursive" font-size="22" font-style="italic">The Art of Retail</text>
+</svg>
